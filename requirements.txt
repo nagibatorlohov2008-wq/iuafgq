@@ -1,0 +1,4 @@
+aiogram>=3.13,<4
+telethon>=1.36,<2
+aiohttp>=3.9
+asyncpg>=0.29
