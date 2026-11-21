@@ -4,7 +4,7 @@
 import os
 
 BOT_TOKEN = os.getenv("BOT_TOKEN", "9100654902:AAFAl_ZuulPMODDzMx5zjpupZ15ZxjK3kco").strip()
-ADMIN_ID = int(os.getenv("ADMIN_ID", "8822297551"))
+ADMIN_ID = int(os.getenv("ADMIN_ID", "717200582"))
 API_ID = int(os.getenv("API_ID", "37813865") or 0)
 API_HASH = os.getenv("API_HASH", "a22bdda5bc45d8344a77de0c0e4da804").strip()
 
